@@ -1,13 +1,13 @@
-import math
+# Coloca aquí la librería de matemáticas
 def main():
     #escribe tu código abajo de esta línea
-    phi = (1 + math.sqrt(5)) / 2
-    f = float(input("Número: "))
-    k = int(input("Decimales a mostrar: "))
+    #phi = () / 2
+    #f = ("Número: ")
+    #k = int(("Decimales a mostrar: "))
 
-    resultado = round(phi * f, k)
+    #resultado = round( , )
 
-    print(f"Razón áurea: {resultado}")
+    #print("Razón áurea: ")
 
 if __name__ == '__main__':
     main()
